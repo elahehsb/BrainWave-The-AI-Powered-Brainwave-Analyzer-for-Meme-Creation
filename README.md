@@ -1,4 +1,4 @@
-# BrainWave-The-AI-Powered-Brainwave-Analyzer-for-Meme-Creation
+# BrainWave: The AI-Powered Brainwave Analyzer for Meme Creation
 
 ### Project Overview
 BrainWave is an innovative and playful AI project that integrates multimodal brain imaging data to create personalized, humor-infused memes based on real-time brainwave activity. This project aims to leverage cutting-edge imaging techniques and AI to produce memes that reflect users' emotional states and cognitive patterns. The integration of brain imaging and meme generation is both fun and practical, making it a unique tool for entertainment, mental health awareness, and social engagement.
